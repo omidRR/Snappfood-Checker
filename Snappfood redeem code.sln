@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snappfood redeem code", "Snappfood redeem code.csproj", "{3F0248F2-BDD4-4F67-A768-E1678A0B96A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F0248F2-BDD4-4F67-A768-E1678A0B96A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F0248F2-BDD4-4F67-A768-E1678A0B96A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F0248F2-BDD4-4F67-A768-E1678A0B96A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F0248F2-BDD4-4F67-A768-E1678A0B96A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {413A229D-261A-45D2-86AE-62E9A9C24A5A}
+	EndGlobalSection
+EndGlobal
